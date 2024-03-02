@@ -39,6 +39,6 @@ This repository contains a series of Jupyter notebooks with various aspects of u
 To get started with these notebooks, clone this repository and install the required packages using the following commands:
 
 ```bash
-git clone https://github.com/Biotechnologyguy/numpy
+git clone https://github.com/Biotechnologyguy/numpy.git
 cd numpy
 pip install numpy
