@@ -26,14 +26,32 @@ This repository contains a series of Jupyter notebooks with various aspects of u
    Performing basic arithmetic operations like addition, subtraction, multiplication, and division with arrays.
 
 8. **Arithmetic Functions in NumPy**  
-   Exploring built-in arithmetic functions such as `max`, `min`, `argmin`, `argmax`, and more.
+   Exploring built-in arithmetic functions such as `max()`, `min()`, `argmin()`, `argmax()`, `sqrt()`, `sin()`, `cumsum()` and more.
 
 9. **Shape and Reshaping in NumPy**  
    Understanding the shape of arrays and how to reshape them without changing the data.
 
 10. **Broadcasting in NumPy Array**  
     Learning about broadcasting, a powerful mechanism that allows NumPy to work with arrays of different shapes during arithmetic operations.
+    
+11. **Indexing and Slicing in NumPy Arrays**  
+    Dive deep into indexing and slicing to manipulate NumPy array elements 
 
+12. **Iterating NumPy Arrays**  
+    Learn how to iterate over NumPy arrays using `nditer()`, `ndenumerate()`.
+
+12. **Copy vs Views in NumPy**  
+    Understanding the difference between copying and viewing arrays and their implications using `copy()` and `view()`.
+
+12. **Joining & Splitting NumPy Arrays**  
+    Techniques for concatenating and splitting arrays using various functions like `concatenate()`, `stack()`, `hstack()`, `dstack()`, `vstack()` and `split()`.
+
+12. **NumPy Array Functions**  
+    Exploreed a range of functions for array manipulation, `where()`, `sort()`, `searchsorted()`, `shuffle()`, `unique()`, `resize`, `flatten()` and `ravel()`
+
+12. **NumPy Insert and Delete Arrays Functions**  
+    Learnt how to insert and delete elements in arrays efficiently using `insert()`, `append()`, and `delete()`
+    
 ## Getting Started
 
 To get started with these notebooks, clone this repository and install the required packages using the following commands:
